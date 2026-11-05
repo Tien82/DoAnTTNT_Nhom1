@@ -1,0 +1,15 @@
+# Bộ nhớ tạm của Python
+__pycache__/
+*.pyc
+
+# Môi trường ảo (nếu có)
+venv/
+.venv/
+env/
+
+# Checkpoint của Jupyter Notebook
+.ipynb_checkpoints/
+
+# File cấu hình VS Code
+.vscode/
+.DS_Store
