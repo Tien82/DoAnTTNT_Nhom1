@@ -2,7 +2,7 @@
 
 Hệ thống hỗ trợ dự đoán và cảnh báo sớm nguy cơ mắc bệnh tiểu đường dựa trên các chỉ số sinh lý cá nhân, ứng dụng các thuật toán Học Máy (Machine Learning) kết hợp với giao diện ứng dụng Web **Streamlit**.
 
----
+-----
 
 ## 📌 Giới Thiệu Đề Tài
 
