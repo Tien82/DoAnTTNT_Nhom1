@@ -115,6 +115,6 @@ streamlit run app.py
 - **Môn học:** Trí Tuệ Nhân Tạo
 - **Đơn vị:** Nhóm 1
 - **Thành Viên:** 
-    Lê Thị Tường Vy - DTH235818
-    Phan Thị Thanh Tiền - DTH235785
-    Lâm Đức Trường - DTH235802
+1.    **Lê Thị Tường Vy - DTH235818**
+2.    **Phan Thị Thanh Tiền - DTH235785**
+3.    **Lâm Đức Trường - DTH235802**
